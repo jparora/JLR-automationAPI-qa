@@ -1,0 +1,18 @@
+{
+  "id": 1010,
+  "category": {
+    "id": 0,
+    "name": "sheep"
+  },
+  "name": "lamb",
+  "photoUrls": [
+    "kid"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "string"
+    }
+  ],
+  "status": "pending"
+}
